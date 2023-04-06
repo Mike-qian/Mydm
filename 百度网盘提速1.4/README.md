@@ -7,7 +7,6 @@
 
 <div align="center">
 
-| 表头1  | 表头2|
 | ---------- | -----------|
 | ![QQ截图20230406203240](https://user-images.githubusercontent.com/24271838/230379658-d7846102-fac1-447f-b070-07c1c5027615.png)   | 表格单元   |
 
