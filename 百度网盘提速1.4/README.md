@@ -1,4 +1,4 @@
-<div align="center|justify">
+<div align="left|right|center|justify">
 | 表头1  | 表头2|
 | ---------- | -----------|
 | ![QQ截图20230406203240](https://user-images.githubusercontent.com/24271838/230379658-d7846102-fac1-447f-b070-07c1c5027615.png)   | 1.4版加入了修复加速无效的功能，该功能需要完全退出百度网盘后再使用！   |
