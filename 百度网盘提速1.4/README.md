@@ -1,6 +1,6 @@
 11111111
 
-<div align="center">
+<div align="left|right|center|justify">
 
 | 表头1  | 表头2|
 | ---------- | -----------|
