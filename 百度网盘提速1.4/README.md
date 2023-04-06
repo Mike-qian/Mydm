@@ -1,4 +1,4 @@
-<div align="left|right|center|justify">
+<div align="justify">
 
 | 表头1  | 表头2|
 | ---------- | -----------|
